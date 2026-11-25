@@ -1,2 +1,3 @@
 first button
 red second button
+deleted second button
